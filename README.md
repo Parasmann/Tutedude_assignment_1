@@ -5,7 +5,7 @@ performs:
 - Addition
 - Subtraction
 - Multiplication
-- Division
+- Division: Handled zero division error using if else.
 
 ## Task 2
 - Takes first and last name
